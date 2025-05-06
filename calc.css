@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div{
+    height: calc(100vh - 200px);
+    width: calc(100vh - 420px);
+    background-color: red;
+}

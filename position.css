@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vw;
+}
+
+.div-pai{
+    height: 350px;
+    width: 350px;
+    background-color: palevioletred;
+    position: absolute;
+}
+
+.div-filho{
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet;
+}
+
+.tana{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
